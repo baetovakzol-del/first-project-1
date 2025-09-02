@@ -4,55 +4,46 @@ let item1 = document.querySelector(".item1")
 
 let product = [
     {
-        title:"GERKULES",
-        price:"50.000.$",
-        image:"https://kohuku.ru/uploads/posts/2014-03/1394279124_golshtinskaya-poroda-loshadej1.jpg"
+        title:"IPHONE 10",
+        price:"15.000som",
+        image:"https://m.media-amazon.com/images/I/517cbS1x8gL._UF894,1000_QL80_.jpg"
     },
      {
-        title:"Kepka",
-        price:"560 som",
-        image:"https://automaster.uz/storage/img-2803.png"
+        title:"IPHONE 11",
+        price:"24.000som",
+        image:"https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/swappie-iphone-11-purple.png?v=cf0efe3f"
     },
      {
-        title:"Samyn",
-        price:"98 som",
-        image:"https://i.ytimg.com/vi/w56a6qF0wI8/sddefault.jpg"
+        title:"IPHONE 12",
+        price:"35.000som",
+        image:"https://buy.gazelle.com/cdn/shop/files/iPhone_12_Pro_Max_-_Gold_-_Overlap_Trans-cropped.jpg?v=1756418804"
     },
      {
-        title:"Noutbuk",
-        price:"48.000som",
-        image:"https://joybox.uz/wp-content/uploads/2024/01/noutbuk-acernitro-5-an515-46ryzen-76800h32-ghz16-gbpcie-nvme-ssd512-gbno-oddgeforcertx-30606-gb156-1920x1080bez-operaczionnoj-sistemy.jpg"
+        title:"IPHONE 13",
+        price:"56.000som",
+        image:"https://m.media-amazon.com/images/I/51UuPZLMaCL.jpg"
+    },
+     {
+        title:"IPHONE 14",
+        price:"89.990 som",
+        image:"https://files.refurbed.com/ii/iphone-14-pro-max-1662628210.jpg"
+    },
+     {
+        title:"IPHONE 15",
+        price:"94.000 som",
+        image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYQ63spax2YiCw59eYFUSZU5dpOFZV0yBipQ&s"
     },
      {
         title:"IPHONE 16",
-        price:"89.990 som",
-        image:"https://files.refurbed.com/ii/iphone-14-pro-1662623063.jpg?t=fitdesign&h=600&w=800"
+        price:"108.099som",
+        image:"https://m.media-amazon.com/images/I/61qYXb0BfXL._UF894,1000_QL80_.jpg"
     },
      {
-        title:"TOP",
-        price:"820 som",
-        image:"https://basket-14.wbbasket.ru/vol2112/part211258/211258308/images/big/1.webp"
-    },
-     {
-        title:"NAUSHNIK",
-        price:"1.599 som",
-        image:"https://login.kg/image/cache/catalog/new/Aksessuary/Huawei/Naushniki/FreeClip/1-500x400.jpg"
-    },
-     {
-        title:"KALONKA",
-        price:"755 som",
-        image:"https://ae01.alicdn.com/kf/S48dfab8732d94f44b493274abd2a89782.jpg?width=1563&height=2094&hash=3657"
-    },
-     {
-        title:"KOSTIUM",
-        price:"5.990 som",
-        image:"https://budless.kz/wp-content/uploads/2024/03/img_2963-819x1024.jpg"
-    },
-     {
-        title:"ROLIX",
-        price:"3.200 som",
-        image:"https://artjewellerywatches.com/cdn/shop/articles/service.jpg?v=1707254518&width=1800"
-    },
+        title:"IPHONE 17",
+        price:"144.999som",
+        image:"https://www.mobiledokan.com/media/apple-iphone-17-pro-max-white-official-image_1.webp"
+    }
+
     
 ]
 let result1 = document.querySelector(".result1")
